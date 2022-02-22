@@ -12,15 +12,15 @@ function About({ about, skill, contact }) {
         </div>
         <div className="about__name">
           <h1>Jeremy Aucoin</h1>
-          <p>Product Owner & UI/UX Developer</p>
+          <p>Product Owner & Designer</p>
         </div>
         <div className="about__main">
-          <h3>About me</h3>
-          <p>I'm a dad, husband, brother, and son.</p>
+          <h3>About</h3>
           <p>
-            I'm a life-longer learner who loves tech. I have over six years of
-            experience in product design and management. My professional
-            passions include React, CSS, and SQL.
+            I'm a dad, husband, brother, and son. I'm a life-longer learner who
+            loves tech. I have over six years of experience in product design
+            and management. My professional passions include React, CSS, and
+            SQL.
           </p>
           <p>
             Outside of work and spending time with my family and friends, my

@@ -1,5 +1,5 @@
 import React from "react";
-import Bike from "./Bike";
+
 import "./Contact.css";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
@@ -15,11 +15,11 @@ function Contact({ about, skill, contact }) {
           <img className="container__avatar" src={image} alt="" />
           <div className="container__name">
             <h1>Jeremy Aucoin</h1>
-            <p>Product Owner & UI/UX Developer</p>
+            <p>Product Owner & Designer</p>
           </div>
         </div>
         <div className="container__main">
-          <h3>Contact me</h3>
+          <h3>Contact</h3>
           <p>
             If something piques your interest, please reach out. I'd be happy to
             chat with you.
